@@ -57,7 +57,7 @@ public class SalvandoClienteComEntrada {
 
 		System.out.println("Cliente salvo com sucesso!!!");
 
-		// em.close();
+		em.close();
 
 	}
 
